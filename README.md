@@ -1,5 +1,6 @@
-# usgs-engravings
-USGS Engravings
+# usgs-engravings open map
+
+More information: [USGS FTP](ftp://ftpext.usgs.gov/pub/er/va/reston/Engravings/)
 
 Converting the locations of the USGS engravings for sale from KMZ into GeoJSON
 
