@@ -1,0 +1,1282 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>0</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>A-027 for AK - Dennison Fork District map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>A-027</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -141.0000239170534,
+                62.6666696985484,
+                0
+              ],
+              [
+                -141.0000250303809,
+                64.00000297381733,
+                0
+              ],
+              [
+                -144.6666918667877,
+                64.00000234823939,
+                0
+              ],
+              [
+                -144.6666907490713,
+                62.66666908557195,
+                0
+              ],
+              [
+                -141.0000239170534,
+                62.6666696985484,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>1</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>A-029 for AK - Chitina Valley map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>A-029</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -141.0000226884856,
+                61.00000310030833,
+                0
+              ],
+              [
+                -141.0000234054178,
+                62.00000305980927,
+                0
+              ],
+              [
+                -146.3333569401751,
+                62.00000217719487,
+                0
+              ],
+              [
+                -146.3333562203206,
+                61.00000223235089,
+                0
+              ],
+              [
+                -141.0000226884856,
+                61.00000310030833,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>2</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>G-202 for AK - Fortymile map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>G-202</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -141.0000250303809,
+                64.00000297381733,
+                0
+              ],
+              [
+                -141.00002595354,
+                65.00000292835166,
+                0
+              ],
+              [
+                -142.0000260127395,
+                65.00000275554541,
+                0
+              ],
+              [
+                -142.0000250881825,
+                64.00000280347265,
+                0
+              ],
+              [
+                -141.0000250303809,
+                64.00000297381733,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>3</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>A-028 for AK - Circle map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>A-028</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -142.0000250881825,
+                64.00000280347265,
+                0
+              ],
+              [
+                -142.0000270234309,
+                66.00000270608187,
+                0
+              ],
+              [
+                -146.0000271741737,
+                66.00000200345967,
+                0
+              ],
+              [
+                -146.0000252330169,
+                64.0000021203189,
+                0
+              ],
+              [
+                -142.0000250881825,
+                64.00000280347265,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>4</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>H-011 for AK - Upper Tetling River District map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>H-011</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -142.3333570635826,
+                62.33333615783279,
+                0
+              ],
+              [
+                -142.3333573234154,
+                62.66666947593491,
+                0
+              ],
+              [
+                -143.6666907150413,
+                62.6666692529632,
+                0
+              ],
+              [
+                -143.666690454863,
+                62.33333593604066,
+                0
+              ],
+              [
+                -142.3333570635826,
+                62.33333615783279,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>5</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>A-004 for AK - Iliamna region map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>A-004</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -152.6666884242243,
+                59.333334655805,
+                0
+              ],
+              [
+                -152.6666890500594,
+                60.33333458413993,
+                0
+              ],
+              [
+                -156.3333555418616,
+                60.33333400012749,
+                0
+              ],
+              [
+                -156.3333549219994,
+                59.33333408253176,
+                0
+              ],
+              [
+                -152.6666884242243,
+                59.333334655805,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>6</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>H-009 for AK - Lake Clark Mulchatna Region map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>H-009</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -153.3333552706482,
+                59.66666786004127,
+                0
+              ],
+              [
+                -153.3333566074194,
+                61.66666771181662,
+                0
+              ],
+              [
+                -156.0000231370645,
+                61.66666727718961,
+                0
+              ],
+              [
+                -156.000021809659,
+                59.66666744063677,
+                0
+              ],
+              [
+                -153.3333552706482,
+                59.66666786004127,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>7</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>H-006 for AK - Lake Clark-Central Kuskokwim region map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>H-006</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -154.0000221184273,
+                60.00000106305914,
+                0
+              ],
+              [
+                -154.0000234894151,
+                62.0000009106784,
+                0
+              ],
+              [
+                -158.0000232380997,
+                62.00000025758923,
+                0
+              ],
+              [
+                -158.0000218836972,
+                60.0000004325351,
+                0
+              ],
+              [
+                -154.0000221184273,
+                60.00000106305914,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>8</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>G-205 for AK - Kanatak District map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>G-205</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -155.0000202197759,
+                56.66666783066401,
+                0
+              ],
+              [
+                -155.0000210863236,
+                58.33333436837631,
+                0
+              ],
+              [
+                -158.666687526455,
+                58.33333381013852,
+                0
+              ],
+              [
+                -158.6666866707731,
+                56.66666729153607,
+                0
+              ],
+              [
+                -155.0000202197759,
+                56.66666783066401,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>9</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>A-014 for AK - Seward Pen. NE map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>A-014</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -160.6666921455773,
+                64.99999954325395,
+                0
+              ],
+              [
+                -160.6666938363604,
+                66.66666605283723,
+                0
+              ],
+              [
+                -165.0000265682835,
+                66.66666531473614,
+                0
+              ],
+              [
+                -165.0000249144227,
+                64.99999882207717,
+                0
+              ],
+              [
+                -160.6666921455773,
+                64.99999954325395,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>10</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>G-001 for AK - SE Seward Pen. &amp; Norton Bay-Nulato map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>G-001</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -160.6666915375023,
+                64.33333293957574,
+                0
+              ],
+              [
+                -160.6666924634525,
+                65.33333284512439,
+                0
+              ],
+              [
+                -164.0000253717755,
+                65.33333228624495,
+                0
+              ],
+              [
+                -164.0000244609981,
+                64.3333323888264,
+                0
+              ],
+              [
+                -160.6666915375023,
+                64.33333293957574,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>11</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>A-038 for AK - Southern Seward Peninsula map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>A-038</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -162.666691302925,
+                64.33333260802385,
+                0
+              ],
+              [
+                -162.6666922201444,
+                65.33333250868442,
+                0
+              ],
+              [
+                -167.0000249064954,
+                65.33333179187491,
+                0
+              ],
+              [
+                -167.00002401201,
+                64.33333190169199,
+                0
+              ],
+              [
+                -162.666691302925,
+                64.33333260802385,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>12</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>G-204 for AK - Seward Pen. NW map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>G-204</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -164.0000250590996,
+                64.99999898705069,
+                0
+              ],
+              [
+                -164.0000267223287,
+                66.66666548359363,
+                0
+              ],
+              [
+                -168.33335932288,
+                66.66666475921217,
+                0
+              ],
+              [
+                -168.3333577038683,
+                64.99999827938434,
+                0
+              ],
+              [
+                -164.0000250590996,
+                64.99999898705069,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>13</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>A-040 for AK - Upper Chitina Valley map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>A-040</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -141.0000226884856,
+                61.00000310030833,
+                0
+              ],
+              [
+                -141.0000229210365,
+                61.33333642032811,
+                0
+              ],
+              [
+                -143.0000230224869,
+                61.33333609344209,
+                0
+              ],
+              [
+                -143.0000227893489,
+                61.00000277526558,
+                0
+              ],
+              [
+                -141.0000226884856,
+                61.00000310030833,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>14</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>H-013 for AK - Slana-tok District map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>H-013</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -142.6666906727046,
+                62.66666942022086,
+                0
+              ],
+              [
+                -142.6666912148516,
+                63.33333605533323,
+                0
+              ],
+              [
+                -144.3333579482421,
+                63.33333577358974,
+                0
+              ],
+              [
+                -144.3333574053184,
+                62.66666914138074,
+                0
+              ],
+              [
+                -142.6666906727046,
+                62.66666942022086,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>15</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>H-012 for AK - Tonsina District map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>H-012</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -145.0000230919624,
+                61.33333576592746,
+                0
+              ],
+              [
+                -145.0000235782296,
+                62.00000239813205,
+                0
+              ],
+              [
+                -146.3333569401751,
+                62.00000217719487,
+                0
+              ],
+              [
+                -146.3333564538057,
+                61.33333554743211,
+                0
+              ],
+              [
+                -145.0000230919624,
+                61.33333576592746,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>16</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>A-030 for AK - Broad Pass map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>A-030</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -147.5000243337386,
+                62.91666859607134,
+                0
+              ],
+              [
+                -147.5000249600735,
+                63.66666855083266,
+                0
+              ],
+              [
+                -149.0000249593948,
+                63.66666829579135,
+                0
+              ],
+              [
+                -149.000024333605,
+                62.9166683439679,
+                0
+              ],
+              [
+                -147.5000243337386,
+                62.91666859607134,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>17</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>H-005 for AK - Kantishna region map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>H-005</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -149.0000249593948,
+                63.66666829579135,
+                0
+              ],
+              [
+                -149.0000255505044,
+                64.33333491920118,
+                0
+              ],
+              [
+                -151.0000255182645,
+                64.33333457625,
+                0
+              ],
+              [
+                -151.000024928448,
+                63.66666795624137,
+                0
+              ],
+              [
+                -149.0000249593948,
+                63.66666829579135,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>18</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>F-236 for CA - Sacramento Valley map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>F-236</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -121.0000130241991,
+                38.00000506720008,
+                0
+              ],
+              [
+                -121.0000132851224,
+                40.0500052397616,
+                0
+              ],
+              [
+                -122.250013478915,
+                40.05000513768296,
+                0
+              ],
+              [
+                -122.2500132161193,
+                38.00000497517844,
+                0
+              ],
+              [
+                -121.0000130241991,
+                38.00000506720008,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>19</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>F-177 for MT ND - Glendive map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>F-177</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -105.0000112139229,
+                47.00000731223279,
+                0
+              ],
+              [
+                -104.0000109660976,
+                47.0000074018978,
+                0
+              ],
+              [
+                -104.0000111628741,
+                48.00000751071399,
+                0
+              ],
+              [
+                -105.0000114135146,
+                48.00000741839524,
+                0
+              ],
+              [
+                -105.0000112139229,
+                47.00000731223279,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>20</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>E-053 for MT - Livingston map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>E-053</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -111.0000122174758,
+                45.00000655899672,
+                0
+              ],
+              [
+                -110.0000120014432,
+                45.00000664969483,
+                0
+              ],
+              [
+                -110.0000121869439,
+                46.0000067496209,
+                0
+              ],
+              [
+                -111.0000124050503,
+                46.00000665586337,
+                0
+              ],
+              [
+                -111.0000122174758,
+                45.00000655899672,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>21</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>E-050 for MT - Fort Logan map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>E-050</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -112.0000126183966,
+                46.00000656107094,
+                0
+              ],
+              [
+                -111.0000124050503,
+                46.00000665586337,
+                0
+              ],
+              [
+                -111.0000126059839,
+                47.00000674890975,
+                0
+              ],
+              [
+                -112.0000128215194,
+                47.00000665106735,
+                0
+              ],
+              [
+                -112.0000126183966,
+                46.00000656107094,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>22</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>F-010 for UT - Escalante map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>F-010</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -112.0000113146931,
+                37.00000558510948,
+                0
+              ],
+              [
+                -111.000011114341,
+                37.00000565000375,
+                0
+              ],
+              [
+                -111.000011218909,
+                38.0000057763653,
+                0
+              ],
+              [
+                -112.0000114201987,
+                38.00000570794306,
+                0
+              ],
+              [
+                -112.0000113146931,
+                37.00000558510948,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>23</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>F-022 for UT - Fish Lake map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>F-022</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -112.0000114201987,
+                38.00000570794306,
+                0
+              ],
+              [
+                -111.000011218909,
+                38.0000057763653,
+                0
+              ],
+              [
+                -111.0000113320238,
+                39.0000058991554,
+                0
+              ],
+              [
+                -112.0000115343632,
+                39.00000582725433,
+                0
+              ],
+              [
+                -112.0000114201987,
+                38.00000570794306,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>24</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>F-023 for UT - Salt Lake map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>F-023</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -112.0000116576269,
+                40.00000594300886,
+                0
+              ],
+              [
+                -111.0000114541206,
+                40.0000060183386,
+                0
+              ],
+              [
+                -111.0000115856725,
+                41.00000613388067,
+                0
+              ],
+              [
+                -112.0000117904691,
+                41.00000605517343,
+                0
+              ],
+              [
+                -112.0000116576269,
+                40.00000594300886,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>25</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>F-012 for UT - St. George map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>F-012</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -114.0000117020537,
+                37.00000545366584,
+                0
+              ],
+              [
+                -113.0000115106173,
+                37.00000551965686,
+                0
+              ],
+              [
+                -113.0000116170284,
+                38.00000563890968,
+                0
+              ],
+              [
+                -114.0000118093379,
+                38.00000556928615,
+                0
+              ],
+              [
+                -114.0000117020537,
+                37.00000545366584,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>26</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>F-017 for NV AZ - St. Thomas map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>F-017</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -115.0000117893791,
+                36.00000527188109,
+                0
+              ],
+              [
+                -114.0000116032297,
+                36.00000533465714,
+                0
+              ],
+              [
+                -114.0000117020537,
+                37.00000545366584,
+                0
+              ],
+              [
+                -115.0000118889442,
+                37.0000053871565,
+                0
+              ],
+              [
+                -115.0000117893791,
+                36.00000527188109,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>27</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>F-167 for CA NV - Ivanpah map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>F-167</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -116.0000118789463,
+                35.00000509391021,
+                0
+              ],
+              [
+                -115.0000116979876,
+                35.00000515330098,
+                0
+              ],
+              [
+                -115.0000117893791,
+                36.00000527188109,
+                0
+              ],
+              [
+                -116.0000119709559,
+                36.00000520865716,
+                0
+              ],
+              [
+                -116.0000118789463,
+                35.00000509391021,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>28</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>F-030 for NV - Kawich map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>F-030</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -117.0000122488608,
+                37.00000525266409,
+                0
+              ],
+              [
+                -116.0000120712317,
+                37.00000532014911,
+                0
+              ],
+              [
+                -116.0000121801638,
+                38.00000542835367,
+                0
+              ],
+              [
+                -117.0000123585671,
+                38.00000535708765,
+                0
+              ],
+              [
+                -117.0000122488608,
+                37.00000525266409,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>29</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>F-166 for CA NV - Furnace Creek map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>F-166</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -117.0000121479048,
+                36.00000514500461,
+                0
+              ],
+              [
+                -116.0000119709559,
+                36.00000520865716,
+                0
+              ],
+              [
+                -116.0000120712317,
+                37.00000532014911,
+                0
+              ],
+              [
+                -117.0000122488608,
+                37.00000525266409,
+                0
+              ],
+              [
+                -117.0000121479048,
+                36.00000514500461,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\"> <head> <META http-equiv=\"Content-Type\" content=\"text/html\"> <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"> </head> <body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\"> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\"> <tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\"> <td></td> </tr> <tr> <td> <table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\"> <tr> <td>FID</td> <td>30</td> </tr> <tr bgcolor=\"#D4E4F3\"> <td>ITEM_NAME</td> <td>F-077 for NV - Lida map engravings, 1:250,000 scale</td> </tr> <tr> <td>SET_NO</td> <td>F-077</td> </tr> </table> </td> </tr> </table> </body> </html>"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -118.0000124217774,
+                37.00000518472198,
+                0
+              ],
+              [
+                -117.0000122488608,
+                37.00000525266409,
+                0
+              ],
+              [
+                -117.0000123585671,
+                38.00000535708765,
+                0
+              ],
+              [
+                -118.0000125322245,
+                38.00000528531736,
+                0
+              ],
+              [
+                -118.0000124217774,
+                37.00000518472198,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
